@@ -1,1 +1,1 @@
-The Text Generation notebook generates text data resembling name, address, date of birth, aadhar card, pan card, driving license and passport by using Faker, indictrans, pandas and other simple python libraries. This generated data can be used to train the model.
+The Text Generation notebook generates text data resembling name, address, date of birth, aadhar card, pan card, driving license and passport by using Faker, indictrans, pandas and other simple python libraries. This generated data can be used to train the machine learning model.
